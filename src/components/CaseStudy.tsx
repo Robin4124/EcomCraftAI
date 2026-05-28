@@ -2,10 +2,10 @@ import React, { useState, useRef, useEffect } from "react";
 import { Play, Pause, RotateCcw, Volume2, VolumeX, Sparkles, AlertCircle, ShoppingBag, Eye, TrendingUp, Music, Headphones, Volume2 as VolIcon } from "lucide-react";
 
 // Get the actual generated image and video paths from our previous step
-const BEFORE_IMG = "/src/fore.png";
-const AFTER_IMG = "/src/efter.png";
-const TIKTOK_VIDEO_FILE = "/src/video.mp4";
-const TIKTOK_AUDIO_FILE = "/src/ljud.mp3";
+const BEFORE_IMG = "/src/assets/images/jewelry_before_1779987548832.png";
+const AFTER_IMG = "/src/assets/images/jewelry_after_1779987569484.png";
+const TIKTOK_VIDEO_FILE = "/src/assets/tiktok_ring.mp4";
+const TIKTOK_AUDIO_FILE = "/src/assets/tiktok_audio.mp3";
 
 type TabType = "media" | "specs";
 
