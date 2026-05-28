@@ -1,0 +1,6 @@
+{
+  "name": "EcomCraft AI",
+  "description": "En komplett, modern och lyxig landningssida (one-page portfolio) på svenska för AI-byrån EcomCraft AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
